@@ -3,8 +3,6 @@ matrix = [
     [4,5,6],
     [7,8,9]
 ]
-
-
 n = len(matrix)
 c = n // 2
 for r in range(c + 1):
